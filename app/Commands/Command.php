@@ -1,4 +1,4 @@
-<?php namespace App\Commands;
+<?php namespace Stacksity\Commands;
 
 abstract class Command {
 

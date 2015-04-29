@@ -1,6 +1,6 @@
-<?php namespace App\Services;
+<?php namespace Stacksity\Services;
 
-use App\User;
+use Stacksity\User;
 use Validator;
 use Illuminate\Contracts\Auth\Registrar as RegistrarContract;
 
