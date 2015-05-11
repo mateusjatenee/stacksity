@@ -12,6 +12,7 @@
 */
 
 Route::get('/', 'PagesController@index');
+Route::get('stacks/all', 'StackController@index');
 
 // Route::get('home', 'HomeController@index');
 
